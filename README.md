@@ -23,4 +23,4 @@ const draw = new mapboxDraw({} as MapboxDrawOptions)
 
 draw.changeMode('point' as drawModelType)
 ```
-![image](https://github.com/user-attachments/assets/38b5fa07-a609-4963-8eb9-f394f5f1b2ac)
+![358647492-38b5fa07-a609-4963-8eb9-f394f5f1b2ac](https://github.com/user-attachments/assets/3491f962-d1f6-46ff-9738-4b59cb216790)
